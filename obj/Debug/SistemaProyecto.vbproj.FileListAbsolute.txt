@@ -1,0 +1,13 @@
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\bin\Debug\SistemaProyecto.exe.config
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\bin\Debug\SistemaProyecto.exe
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\bin\Debug\SistemaProyecto.pdb
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\bin\Debug\SistemaProyecto.xml
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.control_total.resources
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.Resources.resources
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.usuariosOK.resources
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.vbproj.GenerateResource.cache
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.exe
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.xml
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.pdb
+C:\Users\PROGRAMADOR05\Desktop\999.- PRACTICA DIEGO\SistemaProyecto\obj\Debug\SistemaProyecto.vbproj.AssemblyReference.cache
